@@ -1,0 +1,98 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/6985267/pexels-photo-6985267.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100%;
+}
+
+p {
+  color: #cdc0dd;
+  font-family: 'Caveat', cursive;
+  font-size: 1.35em;
+  width: 450px;
+  border: 15px solid #cdc0dd;
+  padding: 50px;
+}
+
+h1 {
+  color: #cdc0dd;
+  width: 270px;
+  border: 15px solid #cdc0dd;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+}
+h2{
+  color:white;
+}
+
+.pic {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border: 12px solid #cdc0dd;
+  display: block;
+  left: 860px;
+  bottom: 550px;
+  border-radius: 70px;
+}
+
+#ema {
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+}
+
+.intro {
+  left: 150px;
+}
+.som {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border: 12px solid #cdc0dd;
+  display: block;
+  left: 860px;
+  bottom: 200px;
+  border-radius: 70px;
+}
+#sem{
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+}
+.har {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border: 12px solid #cdc0dd;
+  display: block;
+  left: 860px;
+  bottom: -190px;
+  border-radius: 70px;
+}
+#ley{
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+}
+.st {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border: 12px solid #cdc0dd;
+  display: block;
+  left: 860px;
+  bottom: -200px;
+  border-radius: 70px;
+}
+#mos{
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+}
